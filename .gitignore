@@ -1,0 +1,5 @@
+node_modules/
+dist/
+.parcel-cache/
+生成的总表*
+so.xlsx

@@ -1,0 +1,21 @@
+{
+  "name": "salary-xlsx-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.1",
+    "xlsx": "^0.18.2"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.18",
+    "gh-pages": "^3.2.3"
+  }
+}
